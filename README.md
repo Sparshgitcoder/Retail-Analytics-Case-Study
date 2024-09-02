@@ -6,16 +6,18 @@ In the rapidly evolving retail sector, businesses continually seek innovative st
 **Business Problem:**
 The retail company has observed stagnant growth and declining customer engagement metrics over the past quarters. Initial assessments indicate potential issues in product performance variability, ineffective customer segmentation, and lack of insights into customer purchasing behavior. The company seeks to leverage its sales transaction data, customer profiles, and product inventory information to address the following key business problems:
 
-•⁠*Product Performance Variability:* Identifying which products are performing well in terms of sales and which are not. This insight is crucial for inventory management and marketing focus.
+*Product Performance Variability:* Identifying which products are performing well in terms of sales and which are not. This insight is crucial for inventory management and marketing focus.
 
-•⁠⁠*Customer Segmentation:* The company lacks a clear understanding of its customer base segmentation. Effective segmentation is essential for targeted marketing and enhancing customer satisfaction.
+*Customer Segmentation:* The company lacks a clear understanding of its customer base segmentation. Effective segmentation is essential for targeted marketing and enhancing customer satisfaction.
 
-•⁠⁠*Customer Behavior Analysis:* Understanding patterns in customer behavior, including repeat purchases and loyalty indicators, is critical for tailoring customer engagement strategies and improving retention rates.
+*Customer Behavior Analysis:* Understanding patterns in customer behavior, including repeat purchases and loyalty indicators, is critical for tailoring customer engagement strategies and improving retention rates.
 
 ---
 
 **Dataset Tables:**
 
-•⁠  ⁠*Sales Transaction:* Records of sales transactions, including transaction ID, customer ID, product ID, quantity purchased, transaction date, and price.
-•⁠  ⁠*Customer Profiles:* Information on customers, including customer ID, age, gender, location, and join date.
-•⁠  ⁠*Product Inventory:* Data on product inventory, including product ID, product name, category, stock level, and price.
+*Sales Transaction:* Records of sales transactions, including transaction ID, customer ID, product ID, quantity purchased, transaction date, and price.
+
+*Customer Profiles:* Information on customers, including customer ID, age, gender, location, and join date.
+
+*Product Inventory:* Data on product inventory, including product ID, product name, category, stock level, and price.
