@@ -6,7 +6,7 @@ Write a query to identify the number of duplicates in "sales_transaction" table.
 Also, create a separate table containing the unique values and remove the the original table from the databases 
 and replace the name of the new table with the original name.
 
-Hint:
+Query description:
 
 Use the “Sales_transaction” table.
 There will be two resulting tables in the output. First, 
